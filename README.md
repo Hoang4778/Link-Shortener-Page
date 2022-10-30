@@ -12,7 +12,7 @@ The site is available via [this link](https://rest-api-country-2acae.firebaseapp
 
 This is the simple project so all you need to do is download the source code and run the `index.html` in the `dist` folder with **Live server** (if you are using VS Code) or open the file to your browswer.
 
-## Functions of the project
+## Functionalities of the project
 
 1. Simply paste or type in your URL that needs shortening and hit `Shorten it` or press `Enter`:
 
