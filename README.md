@@ -6,7 +6,7 @@ This is the challenge on Frontend Mentor website to help people practice making 
 
 ## Live version
 
-The site is available via [this link](https://rest-api-country-2acae.firebaseapp.com/)
+The site is available via [this link](https://rest-api-country-2acae.firebaseapp.com/).
 
 ## Running the project on local machine
 
@@ -24,7 +24,7 @@ This is the simple project so all you need to do is download the source code and
 
 ## Project status
 
-This project is **complete** and available for referencing
+This project is **complete** and available for referencing.
 
 ## Learning outcome
 
